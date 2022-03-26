@@ -1,0 +1,13 @@
+1.rafce => to implement components as functions inside js file
+
+2. e.target.value
+
+e is the event, which in this case is change(onchange event) , target is the element that triggered the event, 
+which in this case is the input ,
+ and value is the value of the input element.
+
+
+3. e.preventDefault
+
+Clicking on a "Submit" button, prevent it from submitting a form
+Clicking on a link, prevent the link from following the URL
